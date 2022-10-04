@@ -1,3 +1,3 @@
 kustomize:
   images:
-  - vfarcic/devops-toolkit:1.0.0
+  - 250887682577.dkr.ecr.us-east-1.amazonaws.com/demo-codebuild:1.0.0
